@@ -1,0 +1,15 @@
+C:\Users\mik27\Desktop\GB\Seminar2\tusk0\bin\Debug\net6.0\tusk0.exe
+C:\Users\mik27\Desktop\GB\Seminar2\tusk0\bin\Debug\net6.0\tusk0.deps.json
+C:\Users\mik27\Desktop\GB\Seminar2\tusk0\bin\Debug\net6.0\tusk0.runtimeconfig.json
+C:\Users\mik27\Desktop\GB\Seminar2\tusk0\bin\Debug\net6.0\tusk0.dll
+C:\Users\mik27\Desktop\GB\Seminar2\tusk0\bin\Debug\net6.0\tusk0.pdb
+C:\Users\mik27\Desktop\GB\Seminar2\tusk0\obj\Debug\net6.0\tusk0.csproj.AssemblyReference.cache
+C:\Users\mik27\Desktop\GB\Seminar2\tusk0\obj\Debug\net6.0\tusk0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mik27\Desktop\GB\Seminar2\tusk0\obj\Debug\net6.0\tusk0.AssemblyInfoInputs.cache
+C:\Users\mik27\Desktop\GB\Seminar2\tusk0\obj\Debug\net6.0\tusk0.AssemblyInfo.cs
+C:\Users\mik27\Desktop\GB\Seminar2\tusk0\obj\Debug\net6.0\tusk0.csproj.CoreCompileInputs.cache
+C:\Users\mik27\Desktop\GB\Seminar2\tusk0\obj\Debug\net6.0\tusk0.dll
+C:\Users\mik27\Desktop\GB\Seminar2\tusk0\obj\Debug\net6.0\refint\tusk0.dll
+C:\Users\mik27\Desktop\GB\Seminar2\tusk0\obj\Debug\net6.0\tusk0.pdb
+C:\Users\mik27\Desktop\GB\Seminar2\tusk0\obj\Debug\net6.0\tusk0.genruntimeconfig.cache
+C:\Users\mik27\Desktop\GB\Seminar2\tusk0\obj\Debug\net6.0\ref\tusk0.dll
